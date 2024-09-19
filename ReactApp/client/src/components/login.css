@@ -1,0 +1,35 @@
+.anil
+{
+    background-image:url("https://e0.pxfuel.com/wallpapers/430/343/desktop-wallpaper-light-colors-geometric-pattern-abstract.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.login
+{
+    margin-left:225px;
+}
+.greet
+{
+    font-size:30px;
+    font-weight:bold;
+
+}
+.caution
+{
+    font-family: fantasy;
+    font-size: large;
+}
+.bottom
+{
+    margin-top:50px;
+}
+.log
+{
+    font-size:35px;
+    color:rgb(62, 42, 61)
+}
+.uname
+{
+    font-weight: bold;
+}
